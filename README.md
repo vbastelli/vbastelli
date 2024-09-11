@@ -15,9 +15,8 @@ Sou estudante de Engenharia de Software na FIAP e tenho um grande interesse em d
 
 ## 📂 Projetos Destacados
 
-- **[Loja de Esportes](link-do-repositorio)**: Um projeto de React para uma loja de esportes, com funcionalidades dinâmicas e uma interface responsiva.
-- **[Carrinho de Compras Dinâmico](link-do-repositorio)**: Implementação de um carrinho de compras utilizando React.
-- **[Site sobre Poluição no Oceano](link-do-repositorio)**: Projeto de site com uma solução para o problema da poluição marinha.
+- **[Carrinho de Compras Dinâmico]([link-do-repositorio](https://campellodevs.github.io/EcoMagicWDJS/))**: Implementação de um carrinho de compras utilizando React.
+- **[Site sobre Poluição no Oceano]([link-do-repositorio](https://vbastelli.github.io/gs-web-front/))**: Projeto de site com uma solução para o problema da poluição marinha.
 
 ## 🔗 Conecte-se Comigo
 
