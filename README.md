@@ -1,32 +1,65 @@
-# Olá, eu sou o Victório Maia Bastelli!
+# Olá, eu sou Victório Maia Bastelli 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma variedade de projetos nos quais estou trabalhando, bem como contribuições que fiz para a comunidade de desenvolvimento de software.
+Bem-vindo ao meu perfil no GitHub. Aqui compartilho projetos, experimentos e estudos relacionados ao desenvolvimento de software, além de aplicações práticas das tecnologias que estou aprendendo e utilizando no meu dia a dia.
 
 ## 🚀 Sobre Mim
 
-Sou estudante de Engenharia de Software na FIAP e tenho um grande interesse em desenvolvimento web e programação. Meu objetivo é construir soluções inovadoras e aprimorar constantemente minhas habilidades técnicas.
+Sou estudante de Engenharia de Software na FIAP e atualmente trabalho como estagiário em desenvolvimento de sistemas, atuando principalmente com C# e .NET.
 
-## 💻 Tecnologias
+Tenho grande interesse em engenharia de software, arquitetura de sistemas e desenvolvimento backend, buscando constantemente aprofundar meu conhecimento em boas práticas de desenvolvimento, como Clean Code, princípios SOLID e arquitetura de software.
 
-- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend**: Node.js
-- **Lógica de Programação**: Python
-- **Outras Ferramentas**: Git, TypeScript (em aprendizado)
+Meu objetivo é evoluir continuamente como desenvolvedor, construindo sistemas robustos, escaláveis e bem estruturados.
+
+## 💻 Tecnologias e Ferramentas
+
+### Backend
+- C#
+- .NET / ASP.NET Core
+- APIs REST
+
+### Frontend
+- JavaScript
+- Angular
+- Bootstrap
+
+### Outras Tecnologias
+- TypeScript
+- Node.js
+- Python (lógica de programação)
+
+### Ferramentas e Versionamento
+- Git
+- GitHub
 
 ## 📂 Projetos Destacados
 
-- **[Carrinho de Compras Dinâmico](https://campellodevs.github.io/EcoMagicWDJS/)**: Implementação de um carrinho de compras utilizando React.
-- **[Site sobre Poluição no Oceano](https://vbastelli.github.io/gs-web-front/)**: Projeto de site com uma solução para o problema da poluição marinha.
-- **[Site sobre a empresa Mahindra](https://formulaemadev.netlify.app)**: Site feito para promover a Fórmula E.
+Carrinho de Compras Dinâmico  
+Aplicação desenvolvida em React que simula um carrinho de compras com atualização dinâmica de itens.  
+🔗 https://campellodevs.github.io/EcoMagicWDJS/
+
+Site sobre Poluição no Oceano  
+Projeto educacional com foco em conscientização sobre poluição marinha e possíveis soluções tecnológicas.  
+🔗 https://vbastelli.github.io/gs-web-front/
+
+Site sobre a empresa Mahindra (Fórmula E)  
+Projeto web desenvolvido para apresentar informações sobre a equipe Mahindra na Fórmula E.  
+🔗 https://formulaemadev.netlify.app
+
+## 📈 Interesses de Estudo
+
+Atualmente estou aprofundando meus estudos em:
+
+- C# avançado
+- ASP.NET Core
+- Arquitetura de software
+- Estruturas de dados e algoritmos
+- Boas práticas de engenharia de software
 
 ## 🔗 Conecte-se Comigo
 
-- **Email**: [victoriobastelli@gmail.com](mailto:victoriobastelli@gmail.com)
-- **LinkedIn**: [Victório Bastelli](https://www.linkedin.com/in/victório-bastelli-2526aa2b7/)
-
-Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou se estiver interessado em colaborar em novos projetos!
+📧 Email: victoriobastelli@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/victório-bastelli-2526aa2b7/
 
 ---
 
-**Obrigado por visitar meu perfil!**
-
+Obrigado por visitar meu perfil!
